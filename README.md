@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vwnxvinicius, I'm 17 years old and I from Brasil
-- 👀 I’m interested in IA, Selenium, Machine Learning, Web Apps
+- 👀 I’m interested in IA, Machine Learning, Web Development
 - 🌱 I’m currently learning Python and Django
 
 
